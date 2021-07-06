@@ -1,0 +1,8 @@
+{
+  "name": "pxpV2GenPassword",
+  "main": "testPxpRest.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "pxp-client": "^2.1.27"
+  }
+}
